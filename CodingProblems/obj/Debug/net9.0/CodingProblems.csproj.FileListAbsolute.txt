@@ -1,0 +1,14 @@
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\CodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\CodingProblems.AssemblyInfoInputs.cache
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\CodingProblems.AssemblyInfo.cs
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\CodingProblems.csproj.CoreCompileInputs.cache
+F:\learning-projects\CSharp\CodingProblems\bin\Debug\net9.0\CodingProblems.exe
+F:\learning-projects\CSharp\CodingProblems\bin\Debug\net9.0\CodingProblems.deps.json
+F:\learning-projects\CSharp\CodingProblems\bin\Debug\net9.0\CodingProblems.runtimeconfig.json
+F:\learning-projects\CSharp\CodingProblems\bin\Debug\net9.0\CodingProblems.dll
+F:\learning-projects\CSharp\CodingProblems\bin\Debug\net9.0\CodingProblems.pdb
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\CodingProblems.dll
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\refint\CodingProblems.dll
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\CodingProblems.pdb
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\CodingProblems.genruntimeconfig.cache
+F:\learning-projects\CSharp\CodingProblems\obj\Debug\net9.0\ref\CodingProblems.dll
